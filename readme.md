@@ -6,4 +6,4 @@
 
 [API](https://github.com/huifeh/api)
 
-[EXAMEN] (https://github.com/huifeh/examen)
+[EXAMEN](https://github.com/huifeh/examen)
